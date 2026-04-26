@@ -6,7 +6,7 @@ pipeline {
         ACCOUNT_ID = '528133971227'
         REPO_NAME = 'myapp'
         ECR_REPO = '528133971227.dkr.ecr.us-east-1.amazonaws.com/myapp'
-        IMAGE_TAG = 'New'
+        IMAGE_TAG = 'n1'
     }
 
     stages {
